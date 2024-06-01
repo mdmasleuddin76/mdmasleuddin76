@@ -5,12 +5,39 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vickyguptaa7/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://masleuddin-portfolio.vercel.app/" target="_blank">
+    <img
+      src="
+https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+      height="25"
+      alt="Portfolio logo"
+    />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+  <a href="https://www.linkedin.com/in/md-masleuddin-956938225/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="linkedin logo"
+    />
+  </a>
+  <a href="mailto:mdmasleuddin8008@gmail.com" target="_blank">
+    <img
+      src="
+    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="25"
+      alt="Gmail logo"
+    />
+  </a>
+  <a href="https://leetcode.com/u/mdmasleuddin76/" target="_blank">
+    <img
+      src="
+   https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blac"
+      height="25"
+      alt="LeetCode logo"
+    />
+  </a>
+</div>;
+
 
 ###
 
