@@ -60,10 +60,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=dark" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=onedark" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=highcontrast" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=cobalt" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=daracula" height="220" alt="streak graph"  />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=synthwave" height="220" alt="streak graph"  />
