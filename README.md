@@ -55,6 +55,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasleuddin76" height="220" alt="streak graph"  />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=dark" height="220" alt="streak graph"  />
