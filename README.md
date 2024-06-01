@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://masleuddin-portfolio.vercel.app/" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
       height="25"
       alt="Portfolio logo"
     />
@@ -28,8 +28,7 @@
   </a>
   <a href="https://leetcode.com/u/mdmasleuddin76/" target="_blank">
     <img
-      src="
-   https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=blac"
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
       height="25"
       alt="LeetCode logo"
     />
