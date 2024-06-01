@@ -60,7 +60,9 @@
   Hi, I'm Md Masleuddin from Bihar.<br><br>
   - 🔭 I’m working as a Software Developer<br>
   - 📚 I’m currently learning Data Science<br>
-  - ⚡ In my free time, I enjoy playing cricket
+  - ⚡ In my free time, I enjoy playing cricket<br>
+  - 🌟 I’m looking to collaborate on **Machine Learning** and **MERN Projects**<br>
+  - 📖 I love reading about new technologies and innovations<br>
 </p>
 
 ###
