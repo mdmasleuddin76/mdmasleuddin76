@@ -17,6 +17,7 @@
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
+      width="150"
       alt="linkedin logo"
     />
   </a>
@@ -24,6 +25,7 @@
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       height="25"
+      width="150"
       alt="Gmail logo"
     />
   </a>
@@ -31,6 +33,7 @@
     <img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
       height="25"
+      width="150"
       alt="LeetCode logo"
     />
   </a>
