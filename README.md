@@ -1,4 +1,4 @@
-<div align="center" style="margin:20px">
+<div align="center" style="margin:20">
   <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
 </div>
 
