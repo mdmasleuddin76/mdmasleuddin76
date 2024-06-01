@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://github.com/mdmasleuddin76/mdmasleuddin76/blob/main/dp1.jpg"  style="border-radius: 50%;" />
+  <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
 </div>
-
 ###
 
 <div align="center">
@@ -89,10 +88,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
-</div>
 [![GitHub Streak]()
 
 ###
