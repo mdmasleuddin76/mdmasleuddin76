@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
 </div>
-###
 
 <div align="center">
   <a href="https://masleuddin-portfolio.vercel.app/" target="_blank">
@@ -42,7 +41,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdmasleuddin76.mdmasleuddin76&"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdmasleuddin76.mdmasleuddin76&"  height="35"
+      width="150"/>
+  
 </div>
 
 ###
