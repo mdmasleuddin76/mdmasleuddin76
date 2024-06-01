@@ -60,10 +60,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=dark" height="220" alt="streak graph"  />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasleuddin76" height="220" alt="streak graph"  />
-</div>
-<br>
 <h3>📫 How to reach me :<br></h3>
 <div align="center">
   <a href="https://masleuddin-portfolio.vercel.app/" target="_blank">
