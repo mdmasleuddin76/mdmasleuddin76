@@ -60,13 +60,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=dark" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=radical" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=onedark" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=merko" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=cobalt" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=tokyonight" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=synthwave" height="220" alt="streak graph"  />
 </div>
 <br>
 <h3>📫 How to reach me :<br></h3>
