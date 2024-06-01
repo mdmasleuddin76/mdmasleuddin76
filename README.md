@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="[https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph](https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6)](https://git.io/streak-stats)"  />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6)](https://git.io/streak-stats)
+[![GitHub Streak]()
 
 ###
