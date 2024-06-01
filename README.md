@@ -9,7 +9,7 @@
     <img
       src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
       height="25"
-      width="200"
+      width="150"
       alt="Portfolio logo"
     />
   </a>
