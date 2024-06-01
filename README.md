@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" border-radius="full">
   <img height="150" src="https://github.com/mdmasleuddin76/mdmasleuddin76/blob/main/dp1.jpg"  />
 </div>
 
