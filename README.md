@@ -57,7 +57,16 @@
   <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=dark" height="220" alt="streak graph"  />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=radical" height="220" alt="streak graph"  />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=merko" height="220" alt="streak graph"  />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasleuddin76&theme=tokyonight" height="220" alt="streak graph"  />
 </div>
 <br>
 <h3>📫 How to reach me :<br></h3>
