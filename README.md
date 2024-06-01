@@ -8,7 +8,7 @@
   <a href="https://masleuddin-portfolio.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
-      height="25"
+      height="35"
       width="150"
       alt="Portfolio logo"
     />
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/md-masleuddin-956938225/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="25"
+      height="35"
       width="150"
       alt="linkedin logo"
     />
@@ -24,7 +24,7 @@
   <a href="mailto:mdmasleuddin8008@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      height="25"
+      height="35"
       width="150"
       alt="Gmail logo"
     />
@@ -32,7 +32,7 @@
   <a href="https://leetcode.com/u/mdmasleuddin76/" target="_blank">
     <img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
-      height="25"
+      height="35"
       width="150"
       alt="LeetCode logo"
     />
