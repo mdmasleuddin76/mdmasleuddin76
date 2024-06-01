@@ -1,5 +1,4 @@
-<div align="center" style="color:green">
-  hello
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=mdmasleuddin76&theme=ocean-gradient&border_radius=39.6" height="220" alt="streak graph"  />
 </div>
 
@@ -49,7 +48,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -57,7 +56,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  Hi, I'm Md Masleuddin from Bihar.<br><br>
+  - 🔭 I’m working as a Software Developer<br>
+  - 📚 I’m currently learning Data Science<br>
+  - ⚡ In my free time, I enjoy playing cricket
+</p>
 
 ###
 
@@ -90,6 +94,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-[![GitHub Streak]()
 
 ###
